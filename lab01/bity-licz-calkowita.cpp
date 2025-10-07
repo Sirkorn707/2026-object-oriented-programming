@@ -3,7 +3,6 @@
 // wprowadzonej z klawiatury liczby całkowitej. Przyjmij, że liczba może mieć maksymalnie 64 bity. Dodatkowo,
 // oddziel każdą grupę ośmiu bitów znakiem spacji.
 //
-
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,8 @@
+// Zadanie 4.
+// Napisz program, który losuje liczbę całkowitą z przedziału od 0 do 100, a następnie prosi użytkownika
+// o odgadnięcie wylosowanej liczby i wprowadzenie jej z klawiatury. Następnie program wyświetla komunikat,
+// czy wprowadzona liczba jest większa, czy mniejsza od wylosowanej. Gra kończy się w wypadku
+// wprowadzenia poprawnej liczby lub przekroczenia maksymalnej liczby prób, która wynosi 5.
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
