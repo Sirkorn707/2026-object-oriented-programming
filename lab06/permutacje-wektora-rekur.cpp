@@ -22,6 +22,7 @@ void wypiszPermutacje(std::vector<int>& wektor, int start) {
         wypiszPermutacje(wektor, start + 1);
         std::swap(wektor[start], wektor[i]);
     }
+    // https://cplusplus.com/reference/algorithm/swap
 }
 
 int main() {
